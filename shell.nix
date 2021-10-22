@@ -6,5 +6,6 @@ mkShell {
     automake
     gcc
     gnumake
+    libtool
   ];
 }
