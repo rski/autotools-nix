@@ -5,6 +5,7 @@ mkShell {
     autoconf
     automake
     gcc
+    gettext
     gnumake
     libtool
   ];
