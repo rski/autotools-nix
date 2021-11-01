@@ -7,6 +7,7 @@ mkShell {
     gcc
     gettext
     gnumake
+    gnulib
     libtool
   ];
 }
