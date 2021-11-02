@@ -9,5 +9,7 @@ mkShell {
     gnumake
     gnulib
     libtool
+    ncurses
+    adoptopenjdk-bin
   ];
 }
